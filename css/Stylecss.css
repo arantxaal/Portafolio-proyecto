@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#sec-logo{
+	padding: 100px;
+}
+
+#sec-intro{
+	text-align: center;
+	padding: 100px 0;
+	height: 700px;
+	background-color:#525151;
+	background-image: url(../img/fondo_teclado-min.jpg);
+	background-repeat: center;
+	background-position: center;
+	background-size: cover;
+}
+
+#sec-intro h1{
+	font-size: 50px;
+	font-weight: 900;
+}
+
+#sec-intro{
+	text-align: center;
+	color: #555252;
+}
+
+#sec-intro p{
+	padding: 100px;
+	padding-top: 40px; 
+}
+#sec-about{
+	text-align: center;
+	padding: 100px 0;
+	height: 700px;
+	background-color:#D3D0D0;
+}
+
+#sec-about h1{
+	font-size: 50px;
+	font-weight: 900;
+}
+
+#sec-about{
+	text-align: center;
+	color: #6A6868;
+}
+
+#sec-cine{
+	padding: 100px 0;
+	height: 700px;
+	background-color:#525151;
+	color: #CFCBCB;
+}
+
+#sec-cine h1{
+	font-size: 50px;
+	font-weight: 900;
+	text-align: center;
+}
+
+#sec-contact{
+	color: #CFCBCB;
+}
+
+#sec-cine{
+	padding: 100px 0;
+	height: 700px;
+	background-color:#525151;
+	color: #CFCBCB;
+	
+}
+
+#sec-contact h1{
+	font-size: 50px;
+	font-weight: 900;
+}
+
+#sec-contact{
+	color: #CFCBCB;
+	text-align: center;
+}
+
+
+footer{
+	background-color:#7B7979;
+	color: #D8D7D7;
+	padding: 45px 0;
+	text-align: center;
+}
+
+#sec-redes{
+	text-align: center;
+}
+
+#sec-contact{
+	align-content: center;
+}
+
+footer p a{
+	color:#24C1B9;
+	font-weight: 400;
+}
+
+footer p a:hover{
+	color: #BDBCBC;	
+}
